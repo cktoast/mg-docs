@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'cktoast', // Usually your GitHub org/user name.
   projectName: 'mg-docs', // Usually your repo name.
-  deploymentBranch: 'pages',
 
   presets: [
     [
