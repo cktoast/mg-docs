@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmg_documentation=self.webpackChunkmg_documentation||[]).push([[121],{2615:function(a){a.exports=JSON.parse('{"allTagsPath":"/mg-docs/blog/tags","slug":"/mg-docs/blog/tags/hola","name":"hola","count":1,"permalink":"/mg-docs/blog/tags/hola"}')}}]);
